@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1a1c24"/>
+  <rect x="12" y="16" width="40" height="36" rx="4" fill="none" stroke="#a78bfa" stroke-width="3.5"/>
+  <line x1="12" y1="26" x2="52" y2="26" stroke="#a78bfa" stroke-width="3.5"/>
+  <text x="32" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="800" fill="#f0c463" text-anchor="middle">W37</text>
+</svg>

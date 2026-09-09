@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d0e13"/>
+  <g transform="translate(870,150)" fill="none" stroke="#a78bfa" stroke-width="8">
+    <rect x="0" y="0" width="260" height="230" rx="14"/>
+    <line x1="0" y1="60" x2="260" y2="60"/>
+  </g>
+  <text x="1000" y="300" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="90" font-weight="800" fill="#f0c463" text-anchor="middle">W37</text>
+  <text x="80" y="180" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="96" font-weight="800" fill="#e7e9ef" letter-spacing="-1">Week Number</text>
+  <text x="80" y="238" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#969db0">Which ISO 8601 week is it — today or any date</text>
+  <text x="80" y="360" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#e7e9ef">Monday-start · week 1 = the week with the first Thursday</text>
+  <text x="80" y="404" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="24" fill="#969db0">weekday · day of year · quarter · US week · month calendar</text>
+  <text x="80" y="470" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="#969db0">free · runs in your browser</text>
+</svg>
